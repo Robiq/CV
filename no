@@ -67,7 +67,7 @@
     <div id="page-wrap">
     
         <!-- I know you now ;) -->
-        <img src="https://h4x.fun/log/logo?cv=en" alt="Pwn Panda" id="pic" />
+        <img src="https://h4x.fun/log/logo?cv=no" alt="Pwn Panda" id="pic" />
     
         <div id="contact-info" class="vcard">
         
