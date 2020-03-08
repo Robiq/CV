@@ -76,8 +76,8 @@
             <h1 class="fn">Robin Lunde</h1>
             <H6 id="nobreak" style="margin-right: 13.5em;">Dataingeniør <i>(Sikkerhet)</i> - Utvikler</H6>
             <div id="nobreak">
-                <a href="https://robinlunde.com/cv/no" ><img style="width: 32px;" src="https://www.countryflags.io/no/shiny/64.png"></a>
-                <a href="https://robinlunde.com/cv/en"><img style="width: 32px; margin-left: 0.5em;" src="https://www.countryflags.io/gb/shiny/64.png"></a>
+                <a href="https://robinlunde.com/cv/no" data-toggle="tooltip" title="Norsk"><img style="width: 32px;" src="https://www.countryflags.io/no/shiny/64.png"></a>
+                <a href="https://robinlunde.com/cv/en" data-toggle="tooltip" title="English"><img style="width: 32px; margin-left: 0.5em;" src="https://www.countryflags.io/gb/shiny/64.png"></a>
             </div>
 
             <p>
