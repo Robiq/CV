@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="initial-scale=1, user-scalable=0">
-    <meta name="description" content="Robin Lunde - Dataingeniør (sikkerhet), Forsker & Pen tester.">
+    <meta name="description" content="Robin Lunde - Dataingeniør (sikkerhet), Researcher & Pen tester.">
     <meta name="keywords" content="pwn_panda, p_p, Robin Lunde">
     <meta name="google" content="notranslate">
     <link rel="shortcut icon" href="/static/prog/favicon.ico" type="image/x-icon">
@@ -14,7 +14,7 @@
     <title>Robin's Resume</title>
     <meta property="og:title" content="pwn_panda.">
     <meta property="og:url" content="https://robinlunde.com/">
-    <meta property="og:image" content="https://robinlunde.com/panda">
+    <meta property="og:image" content="https://h4x.fun/log/logo">
     <meta property="og:description" content="Robin Lunde &mdash; Dataingeniør (sikkerhet), Forsker & Pen tester.">
      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 
