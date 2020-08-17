@@ -120,8 +120,6 @@
             </p>
         </div>
         
-        <a href="/static/cv/en.pdf">Last ned CV som pdf</a>
-
         <div class="clear"></div>
         
         <dl>
