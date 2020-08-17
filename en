@@ -91,6 +91,8 @@
             <p>
                 <div class="icon list-inline subheader">
             
+                    <a style="float: right; font-size: 1rem; line-height: 1.5; margin: 0;" href="cv/ROBIN_LUNDE_CV_EN.pdf" target="_blank"><h3>Get CV as pdf</h3></a>
+
                     <a href="https://twitter.com/pwn_panda" target="_blank" class="list-inline-item space" alt="twitter">
                         <i class="fab fa-twitter"></i>
                     </a>
@@ -324,6 +326,7 @@
 
                 <p><a href="https://www.youracclaim.com/badges/9cf1e868-8644-45ab-a669-8ce1b3c2d29e/public_url"><img style="margin-left: 1em;" src="https://images.youracclaim.com/size/340x340/images/3951004e-93d8-4d99-8ba7-441b7b709454/Template_GPEN.png" height="100" width="100" align="left" alt="GPEN"> </a><a href="https://www.youracclaim.com/badges/9cf1e868-8644-45ab-a669-8ce1b3c2d29e/public_url"></a></p>
                 <p><a href="https://www.youracclaim.com/badges/257f27da-5e95-40d2-ae94-d81e26ef509d/public_url"><img style="margin-left: 4em;" src="https://images.youracclaim.com/size/340x340/images/05e9f377-8b2a-40bb-9c1e-bb51695e9f91/giac_advisory_board-badge.png" height="100" width="100" align="left" alt="Adv_Board" > </a><a href="https://www.youracclaim.com/badges/257f27da-5e95-40d2-ae94-d81e26ef509d/public_url"></a></p>
+                <p><a href="https://hackerone.com/pwn_panda?type=user" data-toggle="tooltip" title="H1 profile" alt="HackerOne profile"><img style="margin-left: 4em; width: 46px;" src="file://wsl%24/Ubuntu-18.04/home/robin/CV/images/h1_mark_black.png"></a></p>
             </dd>
             
 
@@ -331,11 +334,12 @@
             
             <dd class="clear"></dd>
             
-            <!-- News Articles -->
+            <!-- Other -->
 
-            <dt id="articles" style="height: 70px;"><a id="nostyle" href="#articles">Articles</a></dt>
+            <dt id="other" style="height: 70px;"><a id="nostyle" href="#other">Other</a></dt>
             <dd>
                 <ul>
+                    <li class="base"><a href="https://hackerone.com/line/hacktivity?type=team" target="_blank">Writeups for reports until 15.08.2020</a> <span class="end">HackerOne disclosed reports</span></li>
                     <li class="base"><a href="https://engineering.linecorp.com/en/blog/line-security-bug-bounty-program-report-2019/" target="_blank">Bug Bounty Program 2019 in Review</a> <span class="end">LINE Engineering Blog</span></li>
                     <li class="base"><a href="https://www.hackerone.com/blog/line-launches-public-bug-bounty-program-qa-security-engineer-robin-lunde" target="_blank">Q&A Public program launch</a> <span class="end">HackerOne Blog</span></li>
                     <li class="base"><a href="https://myhackertech.com/blogs/news/sfcs-we-talked-to-line-security-engineer-robin-lunde" target="_blank">Personal Interview</a> <span class="end">MyHackerTech</span></li>
@@ -346,7 +350,7 @@
 
             <dd class="clear"></dd>
             
-            <dt id ="hobbies" style="height: 50px;"> <a id="nostyle" href="#hobbies">Hobbies</a></dt>
+            <dt id ="hobbies" style="height: 120px;"> <a id="nostyle" href="#hobbies">Hobbies</a></dt>
             <dd>
                 <ul class="subheader" style="margin-top: 0.5em; margin-left: -2em;">
                     <a class="interest" alt="Photography" data-toggle="tooltip" title="Photography"> <i class="fas fa-camera"></i></a>
@@ -356,6 +360,7 @@
                     <a class="interest" alt="Music" data-toggle="tooltip" title="Music"> <i class="fas fa-music"></i> </a>
                     <a class="interest" alt="CTF" data-toggle="tooltip" title="CTF"> <i class="fas fa-flag"></i> </a>
                 </ul>
+                <script src="https://www.hackthebox.eu/badge/151826"></script>
             </dd>
             
             <dd class="clear"></dd>
