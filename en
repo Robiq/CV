@@ -326,7 +326,7 @@
 
                 <p><a href="https://www.youracclaim.com/badges/9cf1e868-8644-45ab-a669-8ce1b3c2d29e/public_url"><img style="margin-left: 1em;" src="https://images.youracclaim.com/size/340x340/images/3951004e-93d8-4d99-8ba7-441b7b709454/Template_GPEN.png" height="100" width="100" align="left" alt="GPEN"> </a><a href="https://www.youracclaim.com/badges/9cf1e868-8644-45ab-a669-8ce1b3c2d29e/public_url"></a></p>
                 <p><a href="https://www.youracclaim.com/badges/257f27da-5e95-40d2-ae94-d81e26ef509d/public_url"><img style="margin-left: 4em;" src="https://images.youracclaim.com/size/340x340/images/05e9f377-8b2a-40bb-9c1e-bb51695e9f91/giac_advisory_board-badge.png" height="100" width="100" align="left" alt="Adv_Board" > </a><a href="https://www.youracclaim.com/badges/257f27da-5e95-40d2-ae94-d81e26ef509d/public_url"></a></p>
-                <p><a href="https://hackerone.com/pwn_panda?type=user" data-toggle="tooltip" title="H1 profile" alt="HackerOne profile"><img style="margin-left: 4em; width: 46px;" src="file://wsl%24/Ubuntu-18.04/home/robin/CV/images/h1_mark_black.png"></a></p>
+                <p><a href="https://hackerone.com/pwn_panda?type=user" data-toggle="tooltip" title="H1 profile" alt="HackerOne profile"><img style="margin-left: 4em; width: 46px;" src="images/h1_mark_black.png"></a></p>
             </dd>
             
 
@@ -343,6 +343,7 @@
                     <li class="base"><a href="https://engineering.linecorp.com/en/blog/line-security-bug-bounty-program-report-2019/" target="_blank">Bug Bounty Program 2019 in Review</a> <span class="end">LINE Engineering Blog</span></li>
                     <li class="base"><a href="https://www.hackerone.com/blog/line-launches-public-bug-bounty-program-qa-security-engineer-robin-lunde" target="_blank">Q&A Public program launch</a> <span class="end">HackerOne Blog</span></li>
                     <li class="base"><a href="https://myhackertech.com/blogs/news/sfcs-we-talked-to-line-security-engineer-robin-lunde" target="_blank">Personal Interview</a> <span class="end">MyHackerTech</span></li>
+		    <li class="base"><a href="https://www.hackerone.com/security-at/2020?wvideo=3dtpkf3leu">How a Bug Becomes A Fix</a> <span class="end">HackerOne Security@</span></li><p><a href="https://www.hackerone.com/security-at/2020?wvideo=3dtpkf3leu"><img src="https://embed-fastly.wistia.com/deliveries/622d752d5fd2378ff82c3e30f8e84d5adf4bab42.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=1e71e7e0" style="width: 400px; height: 225px;" width="400" height="225"></a></p>
                 </ul>
             </dd>
             
