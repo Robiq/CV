@@ -53,6 +53,11 @@
         #nostyle { text-decoration: none; }
         #stars { display: inline; }
         #langs { width: 32px; margin-right: 10px; }
+        .flag-icon-box{
+            box-sizing: border-box!important;
+            border:1px solid rgba(0, 0, 0, 0.309);
+            background-size: cover!important;
+        }
      </style>
 
     <!-- Font awesome -->
@@ -170,28 +175,32 @@
                 <h5>Språk</h5>
                 <p>
                    <ul id="doublelist" style="margin-top: -10px;  list-style-type: none; margin-left: 0em;">
-                        <li><span class="flag-icon flag-icon-no" data-toggle="tooltip" title="Norsk"></span>
+                        <li>
+                            <span class="flag-icon flag-icon-no" data-toggle="tooltip" title="Norsk"></span>
                             <div id="stars">
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                             </div>
                         </li>
-                        <li><span class="flag-icon flag-icon-jp" data-toggle="tooltip" title="Japansk"></span>
+                        <li>
+                            <span class="flag-icon flag-icon-box flag-icon-jp" data-toggle="tooltip" title="Japansk"></span>
                             <div id="stars">
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star"></span>
                             </div>
                         </li>
-                        <li><span class="flag-icon flag-icon-gb" data-toggle="tooltip" title="Engelsk"></span>
+                        <li>
+                            <span class="flag-icon flag-icon-gb" data-toggle="tooltip" title="Engelsk"></span>
                             <div id="stars">
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                             </div>
                         </li>
-                        <li><span class="flag-icon flag-icon-es" data-toggle="tooltip" title="Spansk"></span>
+                        <li>
+                            <span class="flag-icon flag-icon-es" data-toggle="tooltip" title="Spansk"></span>
                             <div id="stars">
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star"></span>
