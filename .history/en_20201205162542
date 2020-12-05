@@ -209,22 +209,21 @@
             
             <dd class="clear"></dd>
             
-            <dt id="experience" style="height: 1150px;"><a id="nostyle" href="#experience">Experience</a></dt>
+            <dt id="experience" style="height: 975px;"><a id="nostyle" href="#experience">Experience</a></dt>
             <dd>
                 
                 <!-- Job 1  Alt color code #D85604 -->
                 <h4><a href="https://www.pwc.no/" target="_blank" style="color: #E88D14">PwC AS</a><span> ~ 2020 - Nå</span></h4>
                 <h6>Senior Associate  <span>Oslo, Norway</span></h6>
                 <ul>
-                    <li>Red Team Activities</li>
-                    <li>Offensive toolset development</li>
-                    <li>Penetration testing</li>
+                    <li>Doing risk assessments, code review and pen testing</li>
+                    <li>Focus on mobile and web applications <i>(Partially also network & infra)</i></li>
+                    <li>In charge of LINE's Bug Bounty program</li>
                     <ul id="doublelist">
-                        <li>Physical Security</li>  <li>Social Engineering</li>
-                        <li>Web applications</li>   <li>Mobile applications</li>
-                        <li>Network Security</li>   <li>Infrastructure Security</li>
-                        <li>Persistence</li>   <li>Lateral Movement</li>
+                        <li><a href="https://hackerone.com/line" target="_blank">HackerOne</a></li>
+                        <li><a href="https://bugbounty.linecorp.com/en/" taget="_blank">LINE</a></li>
                     </ul>
+                    <li>Reduced avg. time to</li>
                 </ul>
                 
                 <!-- Job 2 -->
@@ -352,7 +351,7 @@
             
             <!-- Other -->
 
-            <dt id="other" style="height: 750px;"><a id="nostyle" href="#other">Other</a></dt>
+            <dt id="other" style="height: 70px;"><a id="nostyle" href="#other">Other</a></dt>
             <dd>
                 <ul>
                     <li class="base"><a href="https://www.computerfutures.com/en-jp/blog/2020/12/all-you-need-to-know-about-bug-bounty-hunting/">The Bug Bounty Business</a> <span class="end">Tokyo Cyber Security Meet Up</span></li>
