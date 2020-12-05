@@ -53,6 +53,11 @@
         #nostyle { text-decoration: none; }
         #stars { display: inline; }
         #langs { width: 32px; margin-right: 10px; }
+        .flag-icon-jp {
+            border-style:solid;
+            border-width:thin;
+            border: #000000b5;
+        }
      </style>
 
     <!-- Font awesome -->
