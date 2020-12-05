@@ -186,9 +186,7 @@
                             </div>
                         </li>
                         <li>
-                            <div id="nobreak" style="border: rgba(0, 0, 0, 0.479); border-width: thin; border-style: solid;">
-                                <span class="flag-icon flag-icon-jp" data-toggle="tooltip" title="Japanese"></span>
-                            </div>
+                            <span class="flag-icon flag-icon-jp" data-toggle="tooltip" title="Japanese"></span>
                             <div id="stars">
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
