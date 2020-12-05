@@ -53,6 +53,11 @@
         #nostyle { text-decoration: none; }
         #stars { display: inline; }
         #langs { width: 32px; margin-right: 10px; }
+        .flag-icon{
+            box-sizing: border-box!important;
+            border:1px solid #000;
+            background-size: cover!important;
+        }
      </style>
 
     <!-- Font awesome -->
