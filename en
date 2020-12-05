@@ -59,6 +59,8 @@
     <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js" crossorigin="anonymous"></script>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+     <!-- Flag icons  -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.3.1/css/flag-icon.min.css" rel="stylesheet"/>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-126265588-1"></script>
@@ -84,8 +86,8 @@
             <h1 class="fn">Robin Lunde</h1>
             <H6 id="nobreak" style="margin-right: 15.5em;">Security Engineer - Developer</H6>
             <div id="nobreak">
-                <a href="https://robinlunde.com/cv/no" data-toggle="tooltip" title="Norsk" ><img style="width: 32px;" src="https://www.countryflags.io/no/shiny/64.png"></a>
-                <a href="https://robinlunde.com/cv/en" data-toggle="tooltip" title="English"><img style="width: 32px; margin-left: 0.5em;" src="https://www.countryflags.io/gb/shiny/64.png"></a>
+                <a href="https://robinlunde.com/cv/no" data-toggle="tooltip" title="Norsk"><span class="flag-icon flag-icon-no"></span></a>
+                <a href="https://robinlunde.com/cv/en" data-toggle="tooltip" title="English"><span style="width: 32px; margin-left: 0.5em;" class="flag-icon flag-icon-gb"></span></a>
             </div>
 
             <p>
@@ -168,28 +170,28 @@
                 <h5>Languanges</h5>
                 <p>
                    <ul id="doublelist" style="margin-top: -10px;  list-style-type: none; margin-left: 0em;">
-                        <li><img id="langs" src="https://www.countryflags.io/no/shiny/64.png" data-toggle="tooltip" title="Norwegian">
+                        <li><span class="flag-icon flag-icon-no" data-toggle="tooltip" title="Norwegian"></span>
                             <div id="stars">
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                             </div>
                         </li>
-                        <li><img id="langs" src="https://www.countryflags.io/jp/shiny/64.png" data-toggle="tooltip" title="Japanese"> 
+                        <li><span class="flag-icon flag-icon-jp" data-toggle="tooltip" title="Japanese"></span>
                             <div id="stars">
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star"></span>
                             </div>
                         </li>
-                        <li><img id="langs" src="https://www.countryflags.io/gb/shiny/64.png" data-toggle="tooltip" title="English"> 
+                        <li><span class="flag-icon flag-icon-gb" data-toggle="tooltip" title="English"></span>
                             <div id="stars">
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                             </div>
                         </li>
-                        <li><img id="langs" src="https://www.countryflags.io/es/shiny/64.png" data-toggle="tooltip" title="Spanish">
+                        <li><span class="flag-icon flag-icon-es" data-toggle="tooltip" title="Spanish"></span>
                             <div id="stars">
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star"></span>

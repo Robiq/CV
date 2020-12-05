@@ -59,8 +59,8 @@
     <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js" crossorigin="anonymous"></script>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-     <!-- Flag icons  -->
-     <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.3.1/css/flag-icon.min.css" rel="stylesheet"/>
+    <!-- Flag icons  -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.3.1/css/flag-icon.min.css" rel="stylesheet"/>
      
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-126265588-1"></script>
@@ -170,28 +170,28 @@
                 <h5>Språk</h5>
                 <p>
                    <ul id="doublelist" style="margin-top: -10px;  list-style-type: none; margin-left: 0em;">
-                        <li><img id="langs" src="https://www.countryflags.io/no/shiny/64.png" data-toggle="tooltip" title="Norsk">
+                        <li><span class="flag-icon flag-icon-no" data-toggle="tooltip" title="Norsk"></span>
                             <div id="stars">
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                             </div>
                         </li>
-                        <li><img id="langs" src="https://www.countryflags.io/jp/shiny/64.png" data-toggle="tooltip" title="Japansk"> 
+                        <li><span class="flag-icon flag-icon-jp" data-toggle="tooltip" title="Japansk"></span>
                             <div id="stars">
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star"></span>
                             </div>
                         </li>
-                        <li><img id="langs" src="https://www.countryflags.io/gb/shiny/64.png" data-toggle="tooltip" title="Engelsk"> 
+                        <li><span class="flag-icon flag-icon-gb" data-toggle="tooltip" title="Engelsk"></span>
                             <div id="stars">
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                             </div>
                         </li>
-                        <li><img id="langs" src="https://www.countryflags.io/es/shiny/64.png" data-toggle="tooltip" title="Spansk">
+                        <li><span class="flag-icon flag-icon-es" data-toggle="tooltip" title="Spansk"></span>
                             <div id="stars">
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star"></span>
