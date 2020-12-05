@@ -53,11 +53,6 @@
         #nostyle { text-decoration: none; }
         #stars { display: inline; }
         #langs { width: 32px; margin-right: 10px; }
-        .flag-icon-jp {
-            border-style:solid;
-            border-width:thin;
-            border: #000000b5;
-        }
      </style>
 
     <!-- Font awesome -->
@@ -182,7 +177,7 @@
                                 <span class="fa fa-star checked"></span>
                             </div>
                         </li>
-                        <li><span class="flag-icon flag-icon-jp" data-toggle="tooltip" title="Japanese"></span>
+                        <li><div style="border: rgba(0, 0, 0, 0.479); border-width: thin; border-style: solid;"><span class="flag-icon flag-icon-jp" data-toggle="tooltip" title="Japanese"></span></div>
                             <div id="stars">
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
