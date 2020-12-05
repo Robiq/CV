@@ -170,28 +170,40 @@
                 <h5>Languanges</h5>
                 <p>
                    <ul id="doublelist" style="margin-top: -10px;  list-style-type: none; margin-left: 0em;">
-                        <li><span class="flag-icon flag-icon-no" data-toggle="tooltip" title="Norwegian"></span>
+                        <li>
+                            <div id="nobreak" style="border: rgba(0, 0, 0, 0); border-width: thin; border-style: solid;">
+                                <span class="flag-icon flag-icon-no" data-toggle="tooltip" title="Norwegian"></span>
+                            </div>
                             <div id="stars">
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                             </div>
                         </li>
-                        <li><div id="nobreak" style="border: rgba(0, 0, 0, 0.479); border-width: thin; border-style: solid;"><span class="flag-icon flag-icon-jp" data-toggle="tooltip" title="Japanese"></span></div>
+                        <li>
+                            <div id="nobreak" style="border: rgba(0, 0, 0, 0.479); border-width: thin; border-style: solid;">
+                                <span class="flag-icon flag-icon-jp" data-toggle="tooltip" title="Japanese"></span>
+                            </div>
                             <div id="stars">
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star"></span>
                             </div>
                         </li>
-                        <li><span class="flag-icon flag-icon-gb" data-toggle="tooltip" title="English"></span>
+                        <li>
+                            <div id="nobreak" style="border: rgba(0, 0, 0, 0); border-width: thin; border-style: solid;">
+                                <span class="flag-icon flag-icon-gb" data-toggle="tooltip" title="English"></span>
+                            </div>
                             <div id="stars">
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                             </div>
                         </li>
-                        <li><span class="flag-icon flag-icon-es" data-toggle="tooltip" title="Spanish"></span>
+                        <li>
+                            <div id="nobreak" style="border: rgba(0, 0, 0, 0); border-width: thin; border-style: solid;">
+                                <span class="flag-icon flag-icon-es" data-toggle="tooltip" title="Spanish"></span>
+                            </div>
                             <div id="stars">
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star"></span>
