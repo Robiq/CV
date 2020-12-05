@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="initial-scale=1, user-scalable=0">
-    <meta name="description" content="Robin Lunde - Security Engineer, Researcher & Pen tester.">
+    <meta name="description" content="Robin Lunde - Security Engineer, Researcher &amp; Pen tester.">
     <meta name="keywords" content="pwn_panda, p_p, Robin Lunde">
     <meta name="google" content="notranslate">
     <link rel="shortcut icon" href="/static/prog/favicon.ico" type="image/x-icon">
@@ -15,7 +15,7 @@
     <meta property="og:title" content="pwn_panda.">
     <meta property="og:url" content="https://robinlunde.com/">
     <meta property="og:image" content="https://h4x.fun/log/logo">
-    <meta property="og:description" content="Robin Lunde &mdash; Security Engineer, Researcher & Pen tester.">
+    <meta property="og:description" content="Robin Lunde &mdash; Security Engineer, Researcher &amp; Pen tester.">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 
      <title>Robin's Resume</title>
@@ -223,8 +223,8 @@
             <dt id="experience" style="height: 1240px;"><a id="nostyle" href="#experience">Experience</a></dt>
             <dd>
                 
-                <!-- Job 1  Alt color code #D85604 -->
-                <h4><a href="https://www.pwc.no/" target="_blank" style="color: #E88D14">PwC AS</a><span> ~ 2020 - Present</span></h4>
+                <!-- Job 1 -->
+                <h4><a href="https://www.pwc.no/" target="_blank" style="color: #D85604">PwC AS</a><span> ~ 2020 - present</span></h4>
                 <h6>Senior Associate  <span>Oslo, Norway</span></h6>
                 <ul>
                     <li>Red Team Activities</li>
@@ -243,7 +243,7 @@
                 <h6>Security Engineer - Application Security <span>Tokyo, Japan</span></h6>
                 <ul>
                     <li>Doing risk assessments, code review and pen testing</li>
-                    <li>Focus on mobile and web applications <i>(Partially also network & infra)</i></li>
+                    <li>Focus on mobile and web applications <i>(Partially also network &amp; infra)</i></li>
                     <li>In charge of LINE's Bug Bounty program</li>
                     <ul id="doublelist">
                         <li><a href="https://hackerone.com/line" target="_blank">HackerOne</a></li>
@@ -270,7 +270,7 @@
                 <ul>
                     <li>Presented news and new research from Computer Security</li>
                     <li>Demonstrated common attacks & developed security challenges for the students</li>
-                    <li>Explained details and relevance for each of these <i>(News, Research, Demos & Challenges)</i></li>
+                    <li>Explained details and relevance for each of these <i>(News, Research, Demos &amp; Challenges)</i></li>
                 </ul>
 
                 <!-- Job 4 -->
@@ -290,7 +290,7 @@
                 <ul>
                     <li>Squad leader for 2 squads <i>(16 men)</i></li>
                     <li>Responsible for education, training and daily operations</li>
-                    <li>Participated in & supported active operations & excercises within Norway</li>
+                    <li>Participated in &amp; supported active operations &amp; excercises within Norway</li>
                 </ul> 
             </dd>
 
@@ -346,7 +346,7 @@
                     <li class="base">Offensive Mobile Exploitation and Reversing<span class="end">Course</span></li>
                     <li class="base">GIAC Advisory<span class="end">Board Member</span></li>
                     <li class="base">KR Bygg Østfold A/S<span class="end">Board Member</span></li>
-                    <li class="base"> JES <i>(Japanese, English & Sports)</i> - University Club<span class="end">Co-Founder and VP</span></li>
+                    <li class="base"> JES <i>(Japanese, English &amp; Sports)</i> - University Club<span class="end">Co-Founder and VP</span></li>
                 </ul>
 
                 <!-- Badges -->
@@ -373,7 +373,7 @@
                         <p><a href="https://www.hackerone.com/security-at/2020?wvideo=3dtpkf3leu"><img src="https://embed-fastly.wistia.com/deliveries/622d752d5fd2378ff82c3e30f8e84d5adf4bab42.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=1e71e7e0" style="width: 400px; height: 225px;" width="400" height="225"></a></p>
                     <li class="base"><a href="https://hackerone.com/line/hacktivity?type=team" target="_blank">Writeups for reports until 15.08.2020</a> <span class="end">HackerOne disclosed reports</span></li>
                     <li class="base"><a href="https://engineering.linecorp.com/en/blog/line-security-bug-bounty-program-report-2019/" target="_blank">Bug Bounty Program 2019 in Review</a> <span class="end">LINE Engineering Blog</span></li>
-                    <li class="base"><a href="https://www.hackerone.com/blog/line-launches-public-bug-bounty-program-qa-security-engineer-robin-lunde" target="_blank">Q&A Public program launch</a> <span class="end">HackerOne Blog</span></li>
+                    <li class="base"><a href="https://www.hackerone.com/blog/line-launches-public-bug-bounty-program-qa-security-engineer-robin-lunde" target="_blank">Q&amp;A Public program launch</a> <span class="end">HackerOne Blog</span></li>
                     <li class="base"><a href="https://myhackertech.com/blogs/news/sfcs-we-talked-to-line-security-engineer-robin-lunde" target="_blank">Personal Interview</a> <span class="end">MyHackerTech</span></li>
                 </ul>
             </dd>
