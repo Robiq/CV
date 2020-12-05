@@ -209,7 +209,7 @@
             
             <dd class="clear"></dd>
             
-            <dt id="experience" style="height: 1150px;"><a id="nostyle" href="#experience">Experience</a></dt>
+            <dt id="experience" style="height: 1240px;"><a id="nostyle" href="#experience">Experience</a></dt>
             <dd>
                 
                 <!-- Job 1  Alt color code #D85604 -->
@@ -352,7 +352,7 @@
             
             <!-- Other -->
 
-            <dt id="other" style="height: 750px;"><a id="nostyle" href="#other">Other</a></dt>
+            <dt id="other" style="height: 790px;"><a id="nostyle" href="#other">Other</a></dt>
             <dd>
                 <ul>
                     <li class="base"><a href="https://www.computerfutures.com/en-jp/blog/2020/12/all-you-need-to-know-about-bug-bounty-hunting/">The Bug Bounty Business</a> <span class="end">Tokyo Cyber Security Meet Up</span></li>

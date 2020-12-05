@@ -209,7 +209,7 @@
             
             <dd class="clear"></dd>
             
-            <dt id="experience" style="height: 1150px;"><a id="nostyle" href="#experience">Erfaring</a></dt>
+            <dt id="experience" style="height: 1220px;"><a id="nostyle" href="#experience">Erfaring</a></dt>
             <dd>
                 <!-- Job 1 Alt color code #D85604 -->
                 <h4><a href="https://www.pwc.no/" target="_blank" style="color: #E88D14">PwC AS</a><span> ~ 2020 - Nå</span></h4>
@@ -351,7 +351,7 @@
             
             <!-- News Articles -->
 
-            <dt id="annet" style="height: 750px;"><a id="nostyle" href="#annet">Annet</a></dt>
+            <dt id="annet" style="height: 790px;"><a id="nostyle" href="#annet">Annet</a></dt>
             <dd>
                 <ul>
                     <li class="base"><a href="https://www.computerfutures.com/en-jp/blog/2020/12/all-you-need-to-know-about-bug-bounty-hunting/">The Bug Bounty Business</a> <span class="end">Tokyo Cyber Security Meet Up</span></li>
