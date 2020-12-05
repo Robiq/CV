@@ -211,21 +211,8 @@
             
             <dt id="experience" style="height: 950px;"><a id="nostyle" href="#experience">Erfaring</a></dt>
             <dd>
-                <!-- Job 1 Alt color code #D85604 -->
-                <h4><a href="https://www.pwc.no/" target="_blank" style="color: #E88D14">PwC AS</a><span> ~ 2020 - Nå</span></h4>
-                <h6>Senior Associate <span>Oslo, Norge</span></h6>
-                <ul>
-                    <li>Utfører risikoanalyse, sårbarhetstesting, analyse av kildekode og penstesting</li>
-                    <li>Fokus på web og mobile applikasjoner <i>(Delvis også nettverk og infra)</i></li>
-                    <li>Ansvarlig for LINE's Bug Bounty program</li>
-                    <ul id="doublelist">
-                        <li><a href="https://hackerone.com/line" target="_blank">HackerOne</a></li>
-                        <li><a href="https://bugbounty.linecorp.com/en/" taget="_blank">LINE</a></li>
-                    </ul>
-                </ul>
-
-                <!-- Job 2 -->
-                <h4><a href="https://linecorp.com/en/" target="_blank" style="color: #00c300">LINE Corp.</a><span> ~ 2018 - 2020</span></h4>
+                <!-- Job 1 -->
+                <h4><a href="https://linecorp.com/en/" target="_blank" style="color: #00c300">LINE Corp.</a><span> ~ 2018 - Nå</span></h4>
                 <h6>Dataingeniør <i>(Sikkerhet)</i> - Applikasjonssikkerhet <span>Tokyo, Japan</span></h6>
                 <ul>
                     <li>Utfører risikoanalyse, sårbarhetstesting, analyse av kildekode og penstesting</li>
@@ -249,7 +236,7 @@
                     <li>Automatisering og analyse var daglige arbeidsoppgaver</li>
                 </ul>
 
-                <!-- Job 3 -->
+                <!-- Job 2 -->
                 <br>
                 <h4><a href="https://www.keio.ac.jp/en/" target="_blank" style="color: #fdd000">Keio University</a> <span> ~ 2016 - 2018</span></h4>
                 <h6>Student Assistent - Intro to Computer Security <span>Tokyo, Japan</span></h6>
@@ -259,7 +246,7 @@
                     <li>Forklarte detaljer og relevanse mtp. de overnevnte punktene <i>(Nyheter, Forskning, Demoer & Utfordringer)</i></li>
                 </ul>
 
-                <!-- Job 4 -->
+                <!-- Job 3 -->
                 <br>
                 <h4>Mathy Travels <span> ~ 2014-2016</span></h4>
                 <h6>Turguide <span>Oslo, Norge</span></h6>
@@ -269,7 +256,7 @@
                     <li>Guidet ved severdigheter og fra buss <i>(inkl. å gi veibeskrivelse til busssjåfør)</i></li>
                 </ul> 
 
-                <!-- Job 5 -->
+                <!-- Job 3 -->
                 <br>
                 <h4><a href="https://forsvaret.no/" target="_blank" style="color: #4b5320">Forsvaret</a> <span> ~ 2012 - 2013</span></h4>
                 <h6>Sersjant - Etterretningsbataljonen <span>Bardufoss, Norge</span></h6>
@@ -356,12 +343,7 @@
                     <li class="base"><a href="https://engineering.linecorp.com/en/blog/line-security-bug-bounty-program-report-2019/" target="_blank">Bug Bounty Program 2019 in Review</a> <span class="end">LINE Engineering Blog</span></li>
                     <li class="base"><a href="https://www.hackerone.com/blog/line-launches-public-bug-bounty-program-qa-security-engineer-robin-lunde" target="_blank">Q&A Public program launch</a> <span class="end">HackerOne Blog</span></li>
                     <li class="base"><a href="https://myhackertech.com/blogs/news/sfcs-we-talked-to-line-security-engineer-robin-lunde" target="_blank">Personal Interview</a> <span class="end">MyHackerTech</span></li>
-                    <li class="base"><a href="https://www.hackerone.com/security-at/2020?wvideo=3dtpkf3leu">How a Bug Becomes A Fix</a> <span class="end">HackerOne Security@</span></li>
-                        <p><a href="https://www.hackerone.com/security-at/2020?wvideo=3dtpkf3leu"><img src="https://embed-fastly.wistia.com/deliveries/622d752d5fd2378ff82c3e30f8e84d5adf4bab42.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=1e71e7e0" style="width: 400px; height: 225px;" width="400" height="225"></a></p>
-                    <li class="base"><a href="https://www.computerfutures.com/en-jp/blog/2020/12/all-you-need-to-know-about-bug-bounty-hunting/">The Bug Bounty Business</a> <span class="end">Tokyo Cyber Security Meet Up</span></li>
-                        <iframe src="https://player.vimeo.com/video/485813110" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-                        <p><a href="https://vimeo.com/485813110">Tokyo Cybersecurity Meetup | The Bug Bounty Business</a> from <a href="https://vimeo.com/sthree">SThree</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-                    <li class="base"></li>
+	            <li class="base"><a href="https://www.hackerone.com/security-at/2020?wvideo=3dtpkf3leu">How a Bug Becomes A Fix</a> <span class="end">HackerOne Security@</span></li><p><a href="https://www.hackerone.com/security-at/2020?wvideo=3dtpkf3leu"><img src="https://embed-fastly.wistia.com/deliveries/622d752d5fd2378ff82c3e30f8e84d5adf4bab42.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=1e71e7e0" style="width: 400px; height: 225px;" width="400" height="225"></a></p>
 		</ul>
             </dd>
             
