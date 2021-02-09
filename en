@@ -220,12 +220,12 @@
             
             <dd class="clear"></dd>
             
-            <dt id="experience" style="height: 1240px;"><a id="nostyle" href="#experience">Experience</a></dt>
+            <dt id="experience" style="height: 1260px;"><a id="nostyle" href="#experience">Experience</a></dt>
             <dd>
                 
                 <!-- Job 1 -->
-                <h4><a href="https://www.pwc.no/" target="_blank" style="color: #D85604">PwC AS</a><span> ~ 2020 - present</span></h4>
-                <h6>Senior Associate  <span>Oslo, Norway</span></h6>
+                <h4><a href="https://www.pwc.no/" target="_blank" style="color: #D85604"><b>PwC AS</b></a><span> ~ 2020 - present</span></h4>
+                <h6><i>Senior Associate</i>  <span>Oslo, Norway</span></h6>
                 <ul>
                     <li>Red Team Activities</li>
                     <li>Offensive toolset development</li>
@@ -239,8 +239,9 @@
                 </ul>
                 
                 <!-- Job 2 -->
-                <h4><a href="https://linecorp.com/en/" target="_blank" style="color: #00c300">LINE Corp.</a><span> ~ 2018 - 2020</span></h4>
-                <h6>Security Engineer - Application Security <span>Tokyo, Japan</span></h6>
+		<br>
+                <h4><a href="https://linecorp.com/en/" target="_blank" style="color: #00c300"><b>LINE Corp.</b></a><span> ~ 2018 - 2020</span></h4>
+                <h6><i>Security Engineer - Application Security</i> <span>Tokyo, Japan</span></h6>
                 <ul>
                     <li>Doing risk assessments, code review and pen testing</li>
                     <li>Focus on mobile and web applications <i>(Partially also network &amp; infra)</i></li>
@@ -256,7 +257,8 @@
                         <li>report was triaged by 4 days</li>
                     </ul>
                 </ul>
-                <h6>Security Engineer - Infrastructure Protection</h6>
+
+                <h6 style="padding-top: 10px;"><i>Security Engineer - Infrastructure Protection</i></h6>
                 <ul>
                     <li>Implemented and monitored security measures for the protection of computer systems, networks and information</li>
                     <li>Working to harden computer systems, and maintain control over all company assets</li>
@@ -265,11 +267,11 @@
 
                 <!-- Job 3 -->
                 <br>
-                <h4><a href="https://www.keio.ac.jp/en/" target="_blank" style="color: #fdd000">Keio University</a> <span> ~ 2016 - 2018</span></h4>
-                <h6>Teaching Assistant - Intro to Computer Security <span>Tokyo, Japan</span></h6>
+                <h4><a href="https://www.keio.ac.jp/en/" target="_blank" style="color: #fdd000"><b>Keio University</b></a> <span> ~ 2016 - 2018</span></h4>
+                <h6><i>Teaching Assistant - Intro to Computer Security</i> <span>Tokyo, Japan</span></h6>
                 <ul>
                     <li>Presented news and new research from Computer Security</li>
-                    <li>Demonstrated common attacks & developed security challenges for the students</li>
+                    <li>Demonstrated common attacks &amp; developed security challenges for the students</li>
                     <li>Explained details and relevance for each of these <i>(News, Research, Demos &amp; Challenges)</i></li>
                 </ul>
 
@@ -285,8 +287,8 @@
 
                 <!-- Job 5 -->
                 <br>
-                <h4><a href="https://forsvaret.no/" target="_blank" style="color: #4b5320">Norwegian Armed Forces</a> <span> ~ 2012 - 2013</span></h4>
-                <h6>Sergeant - Military Intelligence <span>Bardufoss, Norway</span></h6>
+                <h4><a href="https://forsvaret.no/" target="_blank" style="color: #4b5320"><b>Norwegian Armed Forces</b></a> <span> ~ 2012 - 2013</span></h4>
+                <h6><i>Sergeant - Military Intelligence</i> <span>Bardufoss, Norway</span></h6>
                 <ul>
                     <li>Squad leader for 2 squads <i>(16 men)</i></li>
                     <li>Responsible for education, training and daily operations</li>
@@ -298,7 +300,7 @@
 
             <dd class="clear"></dd>
             
-            <dt id="education" style="height: 300px;"><a id="nostyle" href="#education">Education</a></dt>
+            <dt id="education" style="height: 310px;"><a id="nostyle" href="#education">Education</a></dt>
             
             <!-- Edu 1 -->
             <dd>

@@ -220,11 +220,11 @@
             
             <dd class="clear"></dd>
             
-            <dt id="experience" style="height: 1220px;"><a id="nostyle" href="#experience">Erfaring</a></dt>
+            <dt id="experience" style="height: 1250px;"><a id="nostyle" href="#experience">Erfaring</a></dt>
             <dd>
                 <!-- Job 1 -->
-                <h4><a href="https://www.pwc.no/" target="_blank" style="color: #D85604">PwC AS</a><span> ~ 2020 - nå</span></h4>
-                <h6>Senior Associate <span>Oslo, Norge</span></h6>
+                <h4><a href="https://www.pwc.no/" target="_blank" style="color: #D85604"><b>PwC AS</b></a><span> ~ 2020 - nå</span></h4>
+                <h6><i>Senior Associate</i> <span>Oslo, Norge</span></h6>
                 <ul>
                     <li>Red Team Aktiviteter</li>
                     <li>Utvikling av offensive verktøy</li>
@@ -238,8 +238,9 @@
                 </ul>
 
                 <!-- Job 2 -->
-                <h4><a href="https://linecorp.com/en/" target="_blank" style="color: #00c300">LINE Corp.</a><span> ~ 2018 - 2020</span></h4>
-                <h6>Dataingeniør <i>(Sikkerhet)</i> - Applikasjonssikkerhet <span>Tokyo, Japan</span></h6>
+		<br>
+                <h4><a href="https://linecorp.com/en/" target="_blank" style="color: #00c300"><b>LINE Corp.</b></a><span> ~ 2018 - 2020</span></h4>
+                <h6><i>Dataingeniør - Applikasjonssikkerhet</i> <span>Tokyo, Japan</span></h6>
                 <ul>
                     <li>Utfører risikoanalyse, sårbarhetstesting, analyse av kildekode og penstesting</li>
                     <li>Fokus på web og mobile applikasjoner <i>(Delvis også nettverk og infra)</i></li>
@@ -255,7 +256,8 @@
                         <li>rapport ble håndert med 4 dager</li>
                     </ul>
                 </ul>
-                <h6>Dataingeniør <i>(Sikkerhet)</i> - Beskyttelse av infrastruktur</h6>
+		
+                <h6 style="padding-top: 10px;"><i>Dataingeniør (Sikkerhet) - Beskyttelse av infrastruktur</i></h6>
                 <ul>
                     <li>Implementerte og overvåket sikkerhetstiltak for å beskytte firmaets datasystemer, nettverk og informasjon</li>
                     <li>Jobbet med å forsterke datasystemer og kontrollere firmaets maskiner og enheter</li>
@@ -263,9 +265,9 @@
                 </ul>
 
                 <!-- Job 3 -->
-                <br>
-                <h4><a href="https://www.keio.ac.jp/en/" target="_blank" style="color: #fdd000">Keio University</a> <span> ~ 2016 - 2018</span></h4>
-                <h6>Student Assistent - Intro to Computer Security <span>Tokyo, Japan</span></h6>
+		<br>
+                <h4><a href="https://www.keio.ac.jp/en/" target="_blank" style="color: #fdd000"><b>Keio University</b></a> <span> ~ 2016 - 2018</span></h4>
+                <h6><i>Student Assistent - Intro to Computer Security</i> <span>Tokyo, Japan</span></h6>
                 <ul>
                     <li>Presenterte nyheter og ny forskning relatert til Datasikkerhet</li>
                     <li>Demonstrerte vanlige angrep &amp; utviklet sikkerhetsutfordringer for studentene</li>
@@ -274,8 +276,8 @@
 
                 <!-- Job 4 -->
                 <br>
-                <h4>Mathy Travels <span> ~ 2014-2016</span></h4>
-                <h6>Turguide <span>Oslo, Norge</span></h6>
+                <h4><b>Mathy Travels</b> <span> ~ 2014-2016</span></h4>
+                <h6><i>Turguide</i> <span>Oslo, Norge</span></h6>
                 <ul>
                     <li>Planla og gjennomførte turer</li>
                     <li>Bekreftet reservasjoner og planla tur-ruter</li>
@@ -284,8 +286,8 @@
 
                 <!-- Job 5 -->
                 <br>
-                <h4><a href="https://forsvaret.no/" target="_blank" style="color: #4b5320">Forsvaret</a> <span> ~ 2012 - 2013</span></h4>
-                <h6>Sersjant - Etterretningsbataljonen <span>Bardufoss, Norge</span></h6>
+                <h4><a href="https://forsvaret.no/" target="_blank" style="color: #4b5320"><b>Forsvaret</b></a> <span> ~ 2012 - 2013</span></h4>
+                <h6><i>Sersjant - Etterretningsbataljonen</i> <span>Bardufoss, Norge</span></h6>
                 <ul>
                     <li>Lagfører for 2 lag <i>(16 mann)</i></li>
                     <li>Ansvarlig for opplæring, trening og daglig drift</li>
