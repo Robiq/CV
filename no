@@ -211,8 +211,8 @@
                 </p>
 
                 <br>
-                <h5>Leaderskap</h5>
-                <p>Jeg har lederskapserfaring fra mange og varierte bakgrunner. Jeg er for øyeblikket ansvarlig for LINE's Bug Bounty avdeling og daglig drift. Jeg har tjenestegjort som lagfører i Forsvaret, jobbet som turistguide for større grupper og var også Visepresident og medgrunnlegger til en forening ved Keio University.
+                <h5>Lederskap</h5>
+                <p>Jeg har lederskapserfaring fra mange og varierte bakgrunner. Jeg var tidligere ansvarlig for LINE's Bug Bounty avdeling og daglig drift. Jeg har tjenestegjort som lagfører i Forsvaret, jobbet som turistguide for større grupper og var også Visepresident og medgrunnlegger til en forening ved Keio University.
                 </p>
             </dd>
 
@@ -281,7 +281,7 @@
                 <ul>
                     <li>Planla og gjennomførte turer</li>
                     <li>Bekreftet reservasjoner og planla tur-ruter</li>
-                    <li>Guidet ved severdigheter og fra buss <i>(inkl. å gi veibeskrivelse til busssjåfør)</i></li>
+                    <li>Guidet ved severdigheter og fra buss <i>(inkl. å gi veibeskrivelse til bussjåfør)</i></li>
                 </ul> 
 
                 <!-- Job 5 -->
@@ -342,6 +342,7 @@
             <dt id="achievements" style="height: 260px;"><a id="nostyle" href="#achievements">Prestasjoner</a></dt>
             <dd>
                 <ul>
+                    <li class="base">SpecterOps<i>(Adversary Tactics: Red Team Operations)</i><span class="end">Kurs</span></li>
                     <li class="base">GIAC GPEN <i>(Penetration Tester)</i><span class="end">Score: 94% ~ Sertifisering</span></li>
                     <li class="base">IADC <i>(International Advance Degree Course)</i><span class="end">Kurs</span></li>
                     <li class="base">Offensive Mobile Exploitation and Reversing<span class="end">Kurs</span></li>

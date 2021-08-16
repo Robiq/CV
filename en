@@ -212,7 +212,7 @@
 
                 <br>
                 <h5>Leadership</h5>
-                <p>I have experience serving as a leader in many environments. I am in charge of LINE's Bug Bounty team and day to day operations. I was a squad leader in the army, I worked as a tour-guide for large groups and I was the co-founder and Vice-President of a club at my university.
+                <p>I have experience serving as a leader in many environments. I was in charge of LINE's Bug Bounty team and day to day operations. I was a squad leader in the army, I worked as a tour-guide for large groups and I was the co-founder and Vice-President of a club at my university.
                 </p>
             </dd>
 
@@ -343,9 +343,10 @@
             <dt id="achievements" style="height: 260px;"><a id="nostyle" href="#achievements">Achievements</a></dt>
             <dd>
                 <ul>
+                    <li class="base">SpecterOps<i>(Adversary Tactics: Red Team Operations)</i><span class="end">Training</span></li>
                     <li class="base">GIAC GPEN <i>(Penetration Tester)</i><span class="end">Score: 94% ~ Certification</span></li>
-                    <li class="base">IADC <i>(International Advance Degree Course)</i><span class="end">Course</span></li>
-                    <li class="base">Offensive Mobile Exploitation and Reversing<span class="end">Course</span></li>
+                    <li class="base">IADC <i>(International Advance Degree Course)</i><span class="end">Degree</span></li>
+                    <li class="base">Offensive Mobile Exploitation and Reversing<span class="end">Training</span></li>
                     <li class="base">GIAC Advisory<span class="end">Board Member</span></li>
                     <li class="base">KR Bygg Østfold A/S<span class="end">Board Member</span></li>
                     <li class="base"> JES <i>(Japanese, English &amp; Sports)</i> - University Club<span class="end">Co-Founder and VP</span></li>
