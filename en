@@ -369,6 +369,7 @@
             <dt id="other" style="height: 790px;"><a id="nostyle" href="#other">Other</a></dt>
             <dd>
                 <ul>
+		    <li class="base"><a href="https://blogg.pwc.no/styringogkontroll/slik-unng%C3%A5r-du-bakd%C3%B8rer-i-din-bedrift" target="_blank">Blog: How to avoid backdoors in your firm (Norwegian only)</a> <span class="end">Blog PwC Norway</span></li>
                     <li class="base"><a href="https://www.computerfutures.com/en-jp/blog/2020/12/all-you-need-to-know-about-bug-bounty-hunting/">The Bug Bounty Business</a> <span class="end">Tokyo Cyber Security Meet Up</span></li>
                         <iframe src="https://player.vimeo.com/video/485813110" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                         <p><a href="https://vimeo.com/485813110">Tokyo Cybersecurity Meetup | The Bug Bounty Business</a></p>
