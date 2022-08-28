@@ -224,7 +224,7 @@
             <dd>
                 <!-- Job 1 -->
                 <h4><a href="https://www.pwc.no/" target="_blank" style="color: #D85604"><b>PwC AS</b></a><span> ~ 2020 - nå</span></h4>
-                <h6><i>Senior Associate</i> <span>Oslo, Norge</span></h6>
+                <h6><i>Red team operatør</i> <span>Oslo, Norge</span></h6>
                 <ul>
                     <li>Red Team Aktiviteter</li>
                     <li>Utvikling av offensive verktøy</li>
@@ -363,7 +363,7 @@
             
             <dd class="clear"></dd>
             
-            <!-- News Articles -->
+            <!--  News Articles -->
 
             <dt id="annet" style="height: 790px;"><a id="nostyle" href="#annet">Annet</a></dt>
             <dd>
