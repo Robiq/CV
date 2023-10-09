@@ -222,9 +222,10 @@
             
             <dt id="experience" style="height: 1250px;"><a id="nostyle" href="#experience">Erfaring</a></dt>
             <dd>
+
                 <!-- Job 1 -->
-                <h4><a href="https://www.pwc.no/" target="_blank" style="color: #D85604"><b>PwC AS</b></a><span> ~ 2020 - nå</span></h4>
-                <h6><i>Red team operatør</i> <span>Oslo, Norge</span></h6>
+                <h4><a href="https://no.semaphore.global/" target="_blank" style="color: #f59a28"><b>Semaphore Consulting Partners</b></a><span> ~ 2023 - nå</span></h4>
+                <h6><i>Sikkerhetskonsulent & Penetrasjonstester</i> <span>Oslo, Norge</span></h6>
                 <ul>
                     <li>Red Team Aktiviteter</li>
                     <li>Utvikling av offensive verktøy</li>
@@ -238,7 +239,23 @@
                 </ul>
 
                 <!-- Job 2 -->
-		<br>
+                <br>
+                <h4><a href="https://www.pwc.no/" target="_blank" style="color: #D85604"><b>PwC AS</b></a><span> ~ 2020 - 2023</span></h4>
+                <h6><i>Red team operatør</i> <span>Oslo, Norge</span></h6>
+                <ul>
+                    <li>Red Team Aktiviteter</li>
+                    <li>Utvikling av offensive verktøy</li>
+                    <li>Penetrasjonstesting</li>
+                    <ul id="doublelist">
+                        <li>Fysisk Sikkerhet</li>  <li>Sosial Manipulasjon</li>
+                        <li>Web applikasjoner</li>   <li>Mobile applikasjoner</li>
+                        <li>Nettverk Sikkerhet</li>   <li>Infrastruktur Sikkerhet</li>
+                        <li>Vedvarende tilgang</li>   <li>Bevegelse i nettverk</li>
+                    </ul>
+                </ul>
+
+                <!-- Job 3 -->
+		        <br>
                 <h4><a href="https://linecorp.com/en/" target="_blank" style="color: #00c300"><b>LINE Corp.</b></a><span> ~ 2018 - 2020</span></h4>
                 <h6><i>Dataingeniør - Applikasjonssikkerhet</i> <span>Tokyo, Japan</span></h6>
                 <ul>
@@ -264,7 +281,7 @@
                     <li>Automatisering og analyse var daglige arbeidsoppgaver</li>
                 </ul>
 
-                <!-- Job 3 -->
+                <!-- Job 4 -->
 		<br>
                 <h4><a href="https://www.keio.ac.jp/en/" target="_blank" style="color: #fdd000"><b>Keio University</b></a> <span> ~ 2016 - 2018</span></h4>
                 <h6><i>Student Assistent - Intro to Computer Security</i> <span>Tokyo, Japan</span></h6>
@@ -274,7 +291,7 @@
                     <li>Forklarte detaljer og relevanse mtp. de overnevnte punktene <i>(Nyheter, Forskning, Demoer &amp; Utfordringer)</i></li>
                 </ul>
 
-                <!-- Job 4 -->
+                <!-- Job 5 -->
                 <br>
                 <h4><b>Mathy Travels</b> <span> ~ 2014-2016</span></h4>
                 <h6><i>Turguide</i> <span>Oslo, Norge</span></h6>
@@ -284,7 +301,7 @@
                     <li>Guidet ved severdigheter og fra buss <i>(inkl. å gi veibeskrivelse til bussjåfør)</i></li>
                 </ul> 
 
-                <!-- Job 5 -->
+                <!-- Job 6 -->
                 <br>
                 <h4><a href="https://forsvaret.no/" target="_blank" style="color: #4b5320"><b>Forsvaret</b></a> <span> ~ 2012 - 2013</span></h4>
                 <h6><i>Sersjant - Etterretningsbataljonen</i> <span>Bardufoss, Norge</span></h6>
